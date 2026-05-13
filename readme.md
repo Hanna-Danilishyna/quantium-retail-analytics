@@ -67,11 +67,11 @@ The project combines exploratory data analysis, customer segmentation, statistic
 
 ### Trial Store Performance
 
-![Trial Store Performance](/plots/combined_trial_77.png)
+![Trial Store Performance](combined_trial_77.png)
 
 ### Customer Segment Heatmap
 
-![Customer Heatmap](/plots/customer_segment_heatmap.png)
+![Customer Heatmap](customer_segment_heatmap.png)
 
 ---
 
